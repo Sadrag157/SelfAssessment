@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - k `Object`
+  - u `Function`
+  - u `Boolean`
+  - u `Number`
+  - h `BigInt`
+  - u `String`
+  - k `Symbol`
+  - k `Infinity`
+  - u `NaN`
+  - u `undefined`
+  - u `null`
+  - u `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
+  - k `typeof`
+  - h Destructuring
+  - h Generators
+  - k Iterators
   - Async generator
   - Async iterator
   - Chaining
@@ -32,24 +32,24 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
+  - u Equality operators
+  - u Logical operators
+  - k Logical Assignment
   - Bitwise operators
-  - Ternary operator
-  - `void`
+  - k Ternary operator
+  - h `void`
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
   - `delete`
-  - `in`
+  - k `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - k `Number.parseInt`
+  - h `Number.parseFloat`
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - u `if`
+  - u `while`
+  - k `do..while`
+  - u `for`
+  - u `for..in`
+  - u `for..of`
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - k `throw`
+  - u `break`
+  - k`continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - h `switch`
+  - h `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - u Arrow function
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - k Function declaration
+  - k Function expression
+  - u Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
+  - u `Array`
+  - h `Map`
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -102,9 +102,9 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - h `Math`
   - `Reflect`
-  - `Error`
+  - h `Error`
   - `Atomics`
   - `JSON`
   - `WeakRef`
