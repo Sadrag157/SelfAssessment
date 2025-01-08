@@ -90,5 +90,5 @@
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases
+  - h Cloud databases
   - Data Visualization
