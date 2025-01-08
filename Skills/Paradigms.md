@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - u Procedural programming
+  - u Imperative programming
+  - u Structured programming
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - u Object-oriented programming
+  - u Object-based programming
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
@@ -17,7 +17,7 @@
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - k Multi-paradigm programming
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -25,25 +25,25 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - h Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - k Constructor
+  - u Operator `new`
+  - h Static method
+  - k Method
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - u Public fields
+  - u Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - k Inheritance
+  - k Parent class
+  - k Polymorphism
+  - h Abstract class
+  - h Interface
+  - k Encapsulation
   - Hidden class
-  - Object form
+  - k Object form
   - Instance
   - Introspection
   - Reflection
