@@ -1,8 +1,8 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
+  e Data types
+  h Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
@@ -90,5 +90,5 @@
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases
+  h Cloud databases
   - Data Visualization
